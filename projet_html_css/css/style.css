@@ -1,0 +1,42 @@
+h1{
+    color: #a0a0b2;
+    font-size: 22px;
+    font-weight: 80px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    background-color: blanchedalmond;
+    margin: 20px 50px;
+    padding: 10px 0;
+}
+h2{
+    color: #541e1e;
+}
+
+/*P{
+    line-height: 30px;
+    letter-spacing: 15px;
+    column-count: 4;
+    text-align: left;
+    column-gap:30px ;
+*/
+
+
+li{
+    list-style-type: square;
+}
+
+a{
+    text-decoration:navy;
+    background-color: rgb(151, 104, 41);
+    /*border:solid 2px rebeccapurple;*/
+    border-style: solid;
+    border-color: #1d63a5;
+    border-width: 5px;
+    border-radius: 15px;
+   /* border-right-color: aqua;
+    border-left-color: #be8686;*/
+    padding: 5px 35px; 
+    margin: 20px 50px;
+
+}
